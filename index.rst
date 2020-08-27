@@ -2,7 +2,9 @@
 ===============
 Комментарии в Python
 """""""""""""""""""""
-Циклы в Python
+В Python все комментарии начинаются с символа # и все они они являются однострочными
+
+.. image:: https://python-scripts.com/wp-content/uploads/2017/05/loops.jpg
 
 .. code-block:: python
     a = range(5, 10)
