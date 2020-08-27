@@ -7,7 +7,9 @@
 .. image:: https://python-scripts.com/wp-content/uploads/2017/05/loops.jpg
 
 .. code-block:: python
-    a = range(5, 10)
-    print(a) # range(5, 10)
-    b = list(range(1, 10, 2))
-    print(b) # [1, 3, 5, 7, 9]
+
+   def some_function():
+       interesting = False
+       print 'This line is highlighted.'
+       print 'This one is not...'
+       print '...but this one is.'
